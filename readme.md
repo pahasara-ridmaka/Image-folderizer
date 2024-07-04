@@ -7,7 +7,7 @@ ImageFolderizer is a Python tool designed to streamline the organization of your
 ### Features:
 
 - Automatically organizes images into folders by date taken.
-  -Supports various image formats (e.g., JPEG, PNG).
+- Supports various image formats (e.g., JPEG, PNG).
 - Simple and easy to use.
 - Efficient and fast processing of large photo collections.
 
