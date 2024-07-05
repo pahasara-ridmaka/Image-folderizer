@@ -18,7 +18,7 @@ ImageFolderizer is a Python tool designed to streamline the organization of your
 3. Copy source images into the `source_images` folder, or copy your image folder and paste it in the same directory as `script.py`, then rename it to `source_images`.<br>
 4. Run the script: `python script.py`
 
-#### The Way Easy (Optional)
+#### The Way Easy. (Optional)
 
 - Just run `run.bat` :)
 
